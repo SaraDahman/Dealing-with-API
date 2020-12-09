@@ -1,10 +1,7 @@
-## Tamplete ready to deploy on heroku
-
-> this is a tamplete ready to deploy on heroku
+## about
+- it is a simple project to try dealing with a third party API
 
 ## How to start
-
-1- clone the repo, open terminal inside
 
 2- npm install
 
